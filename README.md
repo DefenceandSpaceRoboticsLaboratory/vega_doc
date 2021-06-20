@@ -1,2 +1,2 @@
 # vega_doc
-&lt;h>Documentation of vega board&lt;/h>
+<h>Documentation of vega board</h>
